@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "my-theme"  # Replace "my-theme" with your theme name
